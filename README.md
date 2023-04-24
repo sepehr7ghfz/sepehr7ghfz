@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sepehr7ghfz
-- 🌱 I’m currently working as a back-end develpoer at Roma Parvaz 
+- 🌱 I’m currently working as a MLOps Engineer at DigiNote 
 - 💞️ I’m looking to collaborate on projects and researchs on machine learning and signal processing
 - 📫 this is my email: sepehr.ghaffarzadegan@gmail.com
 
